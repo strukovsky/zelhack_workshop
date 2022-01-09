@@ -5,7 +5,10 @@ node_modules
 coverage
 coverage.json
 typechain
-
+.vscode/*
 #Hardhat files
 cache
 artifacts
+.DS_Store
+deployments/*
+execution/*
