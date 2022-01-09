@@ -10,5 +10,5 @@ typechain
 cache
 artifacts
 .DS_Store
-deployments/*
+deployments/localhost
 execution/*
